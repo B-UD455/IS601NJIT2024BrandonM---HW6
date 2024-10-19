@@ -1,0 +1,3 @@
+def test_operations(generate_records):
+    for a, b, operation in generate_records:
+        # Call your calculator function here and assert the result
